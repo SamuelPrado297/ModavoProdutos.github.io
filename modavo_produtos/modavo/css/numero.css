@@ -1,0 +1,84 @@
+.numberm {
+    padding-left: 60px;
+    color: #004AAD;
+    overflow: visible;
+    width: 600px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    padding-left: 60px;
+    color: black;
+    overflow: visible;
+    width: 600px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img_number {
+    display: flex;
+    justify-content: right;
+    padding-right: 15%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.number {
+    padding-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nm1 {
+    width: 270px;
+    height: 190px;
+}
+
+.number2 {
+    padding-left: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nm2 {
+    width: 260px;
+    height: 190px;
+}
+
+.numbert {
+    padding-left: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nm3 {
+    width: 270px;
+    height: 190px;
+}
+
+h3 {
+    padding-left: 60px;
+    color: black;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: #4f9bff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 3px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.recursos {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}

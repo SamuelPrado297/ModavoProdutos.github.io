@@ -1,0 +1,61 @@
+.smspr {
+    padding-left: 60px;
+    color: #004AAD;
+    overflow: visible;
+    width: 600px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    padding-left: 60px;
+    color: black;
+    overflow: visible;
+    width: 600px;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sms_img {
+    display: flex;
+    justify-content: right;
+    padding-right: 16%;
+}
+
+.sms_info {
+    display: flex;
+    overflow: visible;
+    width: 600px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 27%;
+}
+
+#info {
+    padding-left: 29%;
+}
+
+h3 {
+    padding-left: 60px;
+    color: black;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: #4f9bff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 3px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.beneficios {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}

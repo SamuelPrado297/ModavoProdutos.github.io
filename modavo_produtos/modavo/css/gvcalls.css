@@ -1,0 +1,76 @@
+.ggl {
+    padding-left: 60px;
+    color: #004AAD;
+    overflow: visible;
+    width: 600px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img_ggl {
+    display: flex;
+    justify-content: right;
+    padding-right: 20%;
+}
+
+.como_funciona {
+    display: flex;
+    justify-content: space-between;
+}
+
+.google1 {
+    padding-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#g1 {
+    width: 280px;
+    height: 190px;
+}
+
+.google2 {
+    padding-left: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#g2 {
+    width: 250px;
+    height: 190px;
+}
+
+.googlet {
+    padding-left: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#gt {
+    width: 200px;
+    height: 190px;
+}
+
+h3 {
+    padding-left: 60px;
+    color: black;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: #4f9bff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 3px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.beneficios {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}

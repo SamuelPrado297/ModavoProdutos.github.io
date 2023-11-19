@@ -1,0 +1,101 @@
+.hum {
+    padding-left: 60px;
+    color: #004AAD;
+    overflow: visible;
+    width: 600px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    display: flex;
+    justify-content: right;
+    padding-right: 20%;
+}
+
+.conteudo-principal {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    padding-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#function {
+    width: 280px;
+    height: 190px;
+}
+
+.container1 {
+    padding-left: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#function1 {
+    width: 200px;
+    height: 190px;
+}
+
+.container2 {
+    padding-left: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#function2 {
+    width: 130px;
+    height: 190px;
+}
+.container3 {
+    padding-left: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#function3 {
+    width: 265px;
+    height: 190px;
+}
+
+h3 {
+    padding-left: 60px;
+    color: black;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: #4f9bff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 3px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.beneficios {
+    display: flex;
+}
+
+#beneficios {
+    padding-left: 50px;
+    width: 500px;
+    height: 280px;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-top: -175px;
+    padding-right: 50px;
+}
+
+.check {
+    width: 15px;
+}
