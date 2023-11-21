@@ -1,0 +1,33 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#samuel {
+    width: 190px;
+    height: 200px;
+}
+
+#iago {
+    padding-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#unisuam {
+    padding-top: 40px;
+}
+
+.extras {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px;
+    text-align: center;
+
+}
